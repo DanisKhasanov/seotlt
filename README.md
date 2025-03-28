@@ -13,11 +13,15 @@
 - **Удобный интерфейс** в стиле Material-UI
 - **Типизированный код** на TypeScript
 
-
 ### Установка
+
 ```bash
-git clone 
+git clone
 cd SEOTLT
 npm install
 npm run dev
 ```
+
+### Просмотр сайта в браузере
+
+[https://DanisKhasanov.github.io/seotlt/](https://DanisKhasanov.github.io/seotlt/)
